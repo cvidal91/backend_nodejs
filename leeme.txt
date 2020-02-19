@@ -1,0 +1,1 @@
+Las dependencias instaladas para este proyecto se encuentran en el archivo Comandos ejecutados.txt y package.json

@@ -1,0 +1,23 @@
+1.Iniciar NodeJs
+	npm init
+	
+	-Se deben llenar la información del proyecto
+	
+2.Instalar dependencias para la gestion de rutas
+	npm install --save express
+	
+3. Instalar dependencia para transformar peticiones en objetos json
+	npm install --save body-parser
+	
+4. Instalar dependencia para la gestion de datos como ORM 
+	npm install --save mongoose
+	
+5. Instalar dependencia para la gestion de cargue de archivos 
+	npm install --save connect-multiparty
+	
+6. Instalar dependencia de validación validator
+	npm install --save validator
+	
+7. Instalar dependencia para no tener que estar refrescando los cambios en NodeJs
+	npm install --save-dev nodemon
+
